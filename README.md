@@ -47,5 +47,5 @@ This Student Management System allows users to **add**, **view**, **update**, an
 1. **Clone the repository**
 
 ```bash
-git clone git@github.com:atharvakanchan25/student-management.git
+git clone git@github.com:atharvakanchan25/my-first-project.git
 cd student-management
